@@ -4,7 +4,7 @@
     background: 0 0;
   }
   .video-player iframe {
-    width: 100%;
+    max-width: 100% !important;
     height: 100%;
     top: 0;
     margin: auto;
